@@ -6,9 +6,12 @@
 //
 
 #include <iostream>
+#include "membersAccess.h"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    // Working with pointers
+    std::cout << "Hello, we're showing a example with membersAccess pointers\n\n";
+    MembersAccess ma;
+    ma.playMemberAccess();
     return 0;
 }
