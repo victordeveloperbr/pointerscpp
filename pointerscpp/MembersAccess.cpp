@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <string>
-#include "membersAccess.h"
+#include "MembersAccess.h"
 
 // Accepts a MemAccess pointer
 void MembersAccess::func_A(MemAccess* ma)

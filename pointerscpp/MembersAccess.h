@@ -5,8 +5,8 @@
 //  Created by Antonio Victor Tenorio on 29/06/23.
 //
 #pragma once;
-#ifndef membersAccess_h
-#define membersAccess_h
+#ifndef MembersAccess_h
+#define MembersAccess_h
 
 class MemAccess
 {
@@ -26,4 +26,4 @@ public:
 
 };
 
-#endif /* membersAccess_h */
+#endif /* MembersAccess_h */
